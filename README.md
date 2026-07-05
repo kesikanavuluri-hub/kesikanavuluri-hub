@@ -23,37 +23,53 @@ Building production-ready AI applications using **LLMs, RAG, LangChain, PyTorch,
 
 ---
 
-## 🧠 Tech Stack
+## 🏆 Professional Highlights
 
-**Languages:** Python, SQL, JavaScript, HTML, CSS  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy  
-**LLMs & GenAI:** GPT, Gemini, Claude, LLaMA, BERT, Prompt Engineering  
-**RAG & Agents:** LangChain, LangGraph, ChromaDB, FAISS, Pinecone, Semantic Search  
-**Backend & Apps:** FastAPI, Flask, Streamlit  
-**Cloud & MLOps:** AWS, Azure, Docker, Kubernetes, MLflow, GitHub Actions, CI/CD  
-**Databases:** PostgreSQL, MongoDB, MySQL  
+- 🤖 4+ years of experience building AI/ML applications
+- 🧠 Specialized in LLMs, RAG pipelines, Agentic AI, and semantic search
+- ⚡ Reduced AI inference latency by 31% through model optimization
+- 🚀 Reduced ML deployment time by 35% using Docker, Kubernetes, and CI/CD
+- 🎯 Improved cohort identification precision by 28% using Transformer-based models
+- ☁️ AWS Certified Data Engineer – Associate
+- 💻 Experienced in production AI systems using FastAPI, MLflow, LangChain, and AWS SageMaker
+
+---
+
+## 💻 Core Technologies
+
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, SQL, JavaScript, HTML, CSS |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy |
+| **Generative AI** | GPT-4, Gemini, Claude, LLaMA, BERT, Prompt Engineering |
+| **RAG & Agents** | LangChain, LangGraph, ChromaDB, Pinecone, FAISS, Semantic Search |
+| **Backend & Apps** | FastAPI, Flask, Streamlit |
+| **Cloud** | AWS, Azure, GCP |
+| **MLOps** | Docker, Kubernetes, MLflow, GitHub Actions, CI/CD |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+
+---
+
+## 📊 Project Metrics
+
+| Metric | Value |
+|---|---:|
+| AI/ML Experience | 4+ Years |
+| Production AI Projects | 4 |
+| AI Technologies | 25+ |
+| Cloud Platforms | AWS • Azure • GCP |
+| AI Domains | Healthcare • Finance |
+| AWS Certifications | 1 |
 
 ---
 
 ## 🎯 Current Focus
 
 - Building production-ready RAG applications
-- Improving AI Research Copilot with semantic search and citations
+- Improving AI Research Copilot with semantic search and source citations
 - Creating multi-agent AI workflows
 - Strengthening MLOps, deployment, and model monitoring skills
 - Preparing for AI/ML Engineer, Generative AI Engineer, and MLOps Engineer roles
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kesika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesikanavuluri-hub&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesikanavuluri-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
