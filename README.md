@@ -49,9 +49,9 @@ Building production-ready AI applications using **LLMs, RAG, LangChain, PyTorch,
 
 <div align="center">
 
-![Kesika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesikanavuluri-hub&show_icons=true&theme=tokyonight)
+![Kesika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesikanavuluri-hub&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesikanavuluri-hub&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kesikanavuluri-hub&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
