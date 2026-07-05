@@ -1,39 +1,36 @@
+```markdown
 # Hi there, I'm Kesika Navuluri 👋
 
-## AI/ML Engineer | LLM Applications | RAG Systems | MLOps
+## AI/ML Engineer | LLM Applications | RAG Systems | Production AI
 
-I build production-ready AI/ML applications using Large Language Models, Retrieval-Augmented Generation, semantic search, predictive modeling, and cloud-based MLOps systems.
+I build AI/ML applications using Large Language Models, Retrieval-Augmented Generation, semantic search, predictive modeling, and cloud-based MLOps systems.
 
-I have experience across healthcare and financial domains, with hands-on work in PyTorch, TensorFlow, LangChain, LangGraph, AWS SageMaker, FastAPI, Docker, Kubernetes, MLflow, Pinecone, ChromaDB, and responsible AI practices.
+My focus areas include **LLMs, RAG, LangChain, LangGraph, PyTorch, AWS, FastAPI, Streamlit, ChromaDB, Pinecone, Docker, Kubernetes, MLflow, and responsible AI**.
 
 ---
 
 ## 🚀 What I'm Building
 
-- 🤖 Multi-Agent AI Research Copilot
-- 📄 RAG-Based Document Intelligence System
-- 🏥 Healthcare AI Analytics Dashboard
+- 🤖 AI Research Copilot
 - 💰 AI-Powered Expense Review System
-- 📊 LLM Evaluation and Prompt Testing Tools
-- 🔍 Semantic Search and Vector Database Projects
+- 🏥 Healthcare Analytics Dashboard
+- 🌐 AI/ML Portfolio Website
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, SQL, JavaScript, HTML, CSS  
 
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Keras, Pandas, NumPy  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy  
 
-**LLMs & Generative AI:** GPT-4, Gemini, Claude, LLaMA, BERT, Hugging Face, Prompt Engineering, LLM Evaluation  
+**LLMs & GenAI:** GPT, Gemini, Claude, LLaMA, BERT, Prompt Engineering, LLM Evaluation  
 
-**RAG & AI Agents:** LangChain, LangGraph, ChromaDB, FAISS, Pinecone, Weaviate, Semantic Search, Embeddings  
+**RAG & Agents:** LangChain, LangGraph, ChromaDB, FAISS, Pinecone, Semantic Search  
 
-**MLOps & Deployment:** FastAPI, Flask, Docker, Kubernetes, MLflow, GitHub Actions, CI/CD, Model Monitoring  
+**Backend & Apps:** FastAPI, Flask, Streamlit  
 
-**Cloud:** AWS SageMaker, AWS Lambda, AWS EC2, Azure ML, GCP AI Platform  
-
-**Responsible AI:** SHAP, LIME, Bias Detection, Explainability, A/B Testing  
+**Cloud & MLOps:** AWS, Azure, Docker, Kubernetes, MLflow, GitHub Actions, CI/CD  
 
 **Databases:** PostgreSQL, MongoDB, MySQL  
 
@@ -41,32 +38,53 @@ I have experience across healthcare and financial domains, with hands-on work in
 
 ## 📌 Featured Projects
 
-### 🔹 AI Research Copilot
-AI-powered PDF research assistant that helps users upload documents, extract content, split text into chunks, and prepare documents for retrieval-augmented question answering.
+### 🤖 AI Research Copilot
 
-**Tech:** Python, Streamlit, LangChain, RAG, ChromaDB  
-**Repo:** https://github.com/kesikanavuluri-hub/AI-Research-Copilot
+AI-powered PDF research assistant that helps users upload documents, extract text, split content into chunks, and prepare documents for retrieval-augmented question answering.
 
----
+**Tech:** Python, Streamlit, LangChain, Gemini, RAG, ChromaDB  
 
-### 🔹 Multi-Agent AI Research Assistant
-Multi-agent AI workflow for research, summarization, fact-checking, and report generation using agentic AI concepts.
-
-**Tech:** LangGraph, LangChain, LLMs, Python, Streamlit
+🔗 Repository: https://github.com/kesikanavuluri-hub/AI-Research-Copilot
 
 ---
 
-### 🔹 Healthcare AI Analytics
-Predictive analytics project focused on healthcare data, patient trends, cohort analysis, and AI-driven decision support.
+### 💰 Northwind Expense Review AI
 
-**Tech:** Python, Scikit-learn, Pandas, Healthcare Analytics
+AI-powered expense receipt review system that checks receipts against company policies and identifies compliant, risky, and flagged claims.
+
+**Tech:** Python, Streamlit, RAG, Policy Compliance, Document AI  
+
+🔗 Repository: https://github.com/kesikanavuluri-hub/northwind-expense-review-ai
 
 ---
 
-### 🔹 AI Expense Review System
-AI system that reviews receipts and policy documents to identify compliant, risky, and flagged expense claims.
+### 🏥 Healthcare Dashboard
 
-**Tech:** Python, RAG, LLMs, Document AI
+Healthcare analytics dashboard focused on patient metrics, trends, reporting, and operational insights.
+
+**Tech:** Python, Data Analytics, Dashboarding, Healthcare Analytics  
+
+🔗 Repository: https://github.com/kesikanavuluri-hub/healthcare-dashboard
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio website showcasing AI/ML experience, technical skills, featured projects, and contact information.
+
+**Tech:** HTML, CSS, JavaScript  
+
+🔗 Repository: https://github.com/kesikanavuluri-hub/my-portfolio
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready RAG applications
+- Improving AI Research Copilot with semantic search and source citations
+- Creating multi-agent AI workflows
+- Strengthening MLOps, deployment, and model monitoring skills
+- Preparing for AI/ML Engineer, Generative AI Engineer, and MLOps Engineer roles
 
 ---
 
@@ -78,18 +96,9 @@ AI system that reviews receipts and policy documents to identify compliant, risk
 
 ---
 
-## 🎯 Current Focus
-
-- Building production-ready RAG applications
-- Improving AI Research Copilot with semantic search and source citations
-- Developing multi-agent AI workflows
-- Strengthening MLOps, model monitoring, and deployment skills
-- Preparing for AI/ML Engineer and Generative AI Engineer roles
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/navuluri-k-bb8932222
 - GitHub: https://github.com/kesikanavuluri-hub
 - Email: navuluri09@gmail.com
+```
